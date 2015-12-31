@@ -1,6 +1,6 @@
 <b>Contact Helper Class</b>
 
-Class can be used to fetch contacts.
+Class can be used to fetch contacts in iOS.
 
 <b>Phone Number</b>
 
