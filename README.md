@@ -1,6 +1,7 @@
 <b>Contact Helper Class</b>
 
 Class can be used to fetch contacts in iOS.
+
 Class uses CNContact for iOS 9 and ABAddressBook for lower versions.
 
 <b>Phone Number</b>
